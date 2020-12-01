@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "방문",
     "colorLabel": "모듈러리티",
-    "nodeLabel": "사람과 장소"
+    "nodeLabel": "등장인물"
   },
   "features": {
     "search": true,
